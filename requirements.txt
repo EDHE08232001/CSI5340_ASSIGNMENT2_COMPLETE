@@ -1,0 +1,7 @@
+gymnasium>=0.29
+jax>=0.4
+jaxlib>=0.4
+optax>=0.2
+matplotlib>=3.7
+numpy>=1.24
+pyyaml>=6.0

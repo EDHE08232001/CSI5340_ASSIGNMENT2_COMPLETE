@@ -1,0 +1,44 @@
+# ── macOS metadata ────────────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+myenv/
+venv/
+env/
+.venv/
+.env/
+
+# ── Python cache ──────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Build / distribution ──────────────────────────────────────────────────────
+*.egg-info/
+dist/
+build/
+
+# ── Logs, outputs, checkpoints ───────────────────────────────────────────────
+# logs/
+# out/
+# checkpoints/
+# plots/
+# *.pkl
+# *.log
+# *.json
+
+# ── Editor / IDE ──────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
